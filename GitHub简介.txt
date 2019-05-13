@@ -1,0 +1,11 @@
+官网：https://github.com/
+官方指导手册：https://guides.github.com/activities/hello-world/
+简单介绍一下github（详细的可以看看官网，或者搜一搜别人的介绍）：
+趣闻：因GitHub开源社群性别严重失衡，男性群体高达95%以上，故GitHub常被网民们戏称为“GayHub”、“全球最大同性交友网站”。
+GitHub是通过Git进行版本控制的软件源代码托管服务，是世界上最大的代码存放网站和开源社区。目前被微软收购。
+Github是基于Git的，基于Git的还要Gitlab等等；同时版本控制的软件源码托管服务也不止Git，还有SVN等等。
+作为新人，一般就是push一些代码上去，pull一些代码下来，当个网盘使用。当然GitHub能做的不止这些，比如：
+1、最通用的，给喜欢的项目点星星，fork并pull为他人项目打补丁
+2、为自己项目建立wiki，github/gollum 是其backend. 而且，我们可以用markdown写wiki，用git来管理wiki
+3、作为自己简历，比如你给多少牛逼项目改过bug，做出过贡献；比如你的某个项目获得多少star，不过这个可以造假
+4、等等很多你想不到的
