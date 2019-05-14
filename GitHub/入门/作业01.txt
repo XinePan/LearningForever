@@ -1,0 +1,6 @@
+Git下载地址https://git-scm.com/download/win
+1、熟悉GitHub（https://guides.github.com/activities/hello-world/   ； http://www.runoob.com/w3cnote/git-guide.html）
+2、熟悉Git及相关命令（http://www.runoob.com/git/git-basic-operations.html ）
+3、用任意方式克隆代码仓https://github.com/XinePan/LearningForever.git （如果想免密需要相关配置）
+4、本地新建文件夹及文件，上传到代码仓
+5、创建分支，然后上传文件到代码仓
